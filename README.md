@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alhrbi341@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1pl0iD-9ZHmI7J3W-AV-Yxryhv9WDSRBx/view?usp=drive_link](https://drive.google.com/file/d/1GZgRgXfAIHxsBi_ls6a3VKPnesG_j66J/view)]  (https://drive.google.com/file/d/1pl0iD-9ZHmI7J3W-AV-Yxryhv9WDSRBx/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1pl0iD-9ZHmI7J3W-AV-Yxryhv9WDSRBx/view?usp=drive_link](https://drive.google.com/file/d/1GZgRgXfAIHxsBi_ls6a3VKPnesG_j66J/view)]  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
