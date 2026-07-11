@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid341&label=Profile%20views&color=0e75b6&style=flat" alt="khalid341" /> </p>
 
-- 🌱 I’m currently learning **ASP.net mvc core **
+- 🌱 I’m currently learning **ASP.net core mvc **
 
 - 📫 How to reach me **alhrbi341@gmail.com**
 
