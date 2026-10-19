@@ -6,6 +6,8 @@
 
 **Building localized, production-grade platforms for the Saudi market — from real-time .NET backends to cross-platform Flutter apps.**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Khalid341&style=for-the-badge&color=0e75b6)
+
 </div>
 
 ---
