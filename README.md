@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+.NET+%26+Flutter+Engineer+%F0%9F%9A%80;First-Class+Honors+%E2%80%94+B.Sc.+GPA+4.67+%2F+5.0+%F0%9F%8E%93;Building+LinkMe+%26+SplitFive+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+.NET+%26+Flutter+Engineer+%F0%9F%9A%80;First-Class+Honors+%E2%80%94+B.Sc.+GPA+4.67+%2F+5.0+%F0%9F%8E%93;Tuwaiq+Academy+Alumni+%7C+Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6;Building+LinkMe+%26+SplitFive+%E2%9A%A1)](https://git.io/typing-svg)
 
 **Building localized, production-grade platforms for the Saudi market — from real-time .NET backends to cross-platform Flutter apps.**
 
@@ -12,7 +12,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **First-Class Honors** — B.Sc. in Computer Programming, GPA **4.67 / 5.0**
+- 🎓 **First-Class Honors** — B.Sc. in Computer Science, GPA **4.67 / 5.0**
+- 🏫 **Tuwaiq Academy** Alumni — Full-Stack .NET & Flutter track
 - 🇸🇦 Based in **Saudi Arabia**, building Arabic-first products for the local market
 - 🔭 Currently shipping **LinkMe** (employment & professional networking) and **SplitFive** (offline-first fitness tracking)
 - 💬 Ask me about **ASP.NET Core, EF Core, SignalR, Flutter, Clean Architecture, SOLID**
@@ -65,11 +66,7 @@
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid341&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khalid341&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Khalid341&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -91,9 +88,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khalid-alharbi-91533117b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-alharbi-91533117b)
 [![Email](https://img.shields.io/badge/Email-alhrbi341@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhrbi341@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khalid1portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-taupe-chi.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Khalid341&style=for-the-badge&color=0e75b6)
 
