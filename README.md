@@ -94,7 +94,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-alharbi-91533117b)
 [![Email](https://img.shields.io/badge/Email-alhrbi341@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhrbi341@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-taupe-chi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khalid341.github.io/myportfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Khalid341&style=for-the-badge&color=0e75b6)
 
