@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:02569B&height=200&section=header&text=Khalid%20Alharbi&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20%26%20Flutter%20Specialist&descAlignY=54&descSize=18" alt="header" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:02569B&height=200&section=header&text=Khalid%20Alharbi&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20%26%20Flutter%20Specialist&descAlignY=54&descSize=18" alt="header" />
+</p>
 
 <div align="center">
 
