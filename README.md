@@ -91,8 +91,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khalid-alharbi-91533117b
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khalid-alharbi-91533117b)
 [![Email](https://img.shields.io/badge/Email-alhrbi341@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhrbi341@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khalid1portfolio.netlify.app)
 
