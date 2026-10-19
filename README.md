@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **First-Class Honors** — B.Sc. in Computer Science, GPA **4.67 / 5.0**
-- 🏫 **Tuwaiq Academy** Alumni — Full-Stack .NET & Flutter track
+- 🎓 **First-Class Honors** — B.Sc. in Computer Programming, GPA **4.67 / 5.0**
 - 🇸🇦 Based in **Saudi Arabia**, building Arabic-first products for the local market
 - 🔭 Currently shipping **LinkMe** (employment & professional networking) and **SplitFive** (offline-first fitness tracking)
 - 💬 Ask me about **ASP.NET Core, EF Core, SignalR, Flutter, Clean Architecture, SOLID**
@@ -92,9 +91,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-alharbi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Alharbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khalid-alharbi-91533117b
+)
 [![Email](https://img.shields.io/badge/Email-alhrbi341@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhrbi341@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-taupe-chi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khalid1portfolio.netlify.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Khalid341&style=for-the-badge&color=0e75b6)
 
