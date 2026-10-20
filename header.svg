@@ -1,0 +1,20 @@
+<svg width="100%" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#512BD4" />
+      <stop offset="100%" stop-color="#02569B" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 42px; font-weight: 700; fill: #ffffff; }
+      .desc { font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 18px; font-weight: 500; fill: #e2e8f0; }
+      .wave { animation: waveAnim 8s ease-in-out infinite alternate; }
+      @keyframes waveAnim {
+        0% { transform: translateX(0px); }
+        100% { transform: translateX(-25px); }
+      }
+    </style>
+  </defs>
+  <path class="wave" fill="url(#grad)" d="M 0 0 L 0 175 Q 213.5 215 427 175 T 900 175 L 900 0 Z" />
+  <text x="50%" y="38%" dominant-baseline="middle" text-anchor="middle" class="title">Khalid Alharbi</text>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" class="desc">Software Engineer | Full-Stack Developer & Flutter Developer</text>
+</svg>
