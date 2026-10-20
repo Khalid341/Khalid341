@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Khalid%20Alharbi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%26%20Flutter%20Developer&descAlignY=58&descSize=18)
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:02569B&height=220&section=header&text=Khalid%20Alharbi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20and%20Flutter%20Developer&descAlignY=58&descSize=18" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+Flutter+Developer+%F0%9F%9A%80;First-Class+Honors+%E2%80%94+B.Sc.+GPA+4.67+%2F+5.0+%F0%9F%8E%93;Building+LinkMe+%26+SplitFive+%E2%9A%A1)](https://git.io/typing-svg)
 
